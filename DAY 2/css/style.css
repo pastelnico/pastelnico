@@ -1,0 +1,49 @@
+/* my first css */
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+    background-color: #D9B6A3;
+}
+img {
+    border: 10px solid #324359;
+}
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+    color: #8D414D;
+}
+h2, h3 {
+    font-style: italic;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    color: #8D414D;
+}
+blockquote {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+    color: #96505B;
+}
+cite {
+    font-size: 1rem;
+}
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #324359;
+}
+li a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: #324359;
+    font-size: 1rem;
+}
+a:hover {
+    color: #092126;
+    text-decoration: underline;
+}
